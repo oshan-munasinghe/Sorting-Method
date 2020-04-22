@@ -1,3 +1,5 @@
+//selection Sorted
+//oshan malith
 #include <iostream>
 using namespace std;
 int main(){
