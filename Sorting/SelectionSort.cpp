@@ -1,5 +1,5 @@
 //selection Sorted
-//oshan malith
+//Oshan Malith
 #include <iostream>
 using namespace std;
 int main(){
